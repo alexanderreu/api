@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q3+8weKcFnxSniSgAnlUu7CHxdSddrX3sFPZTXDSZaycHNq81TUvFvtK4P8cvf7WYJGPFFF4Orl0G70R8/Mrpw==",
+  "success": true,
+  "projectFilePath": "/Users/alex/Projects/WebApp1/ServerAPI/ServerAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.ref/7.0.17/microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.17/microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.17/microsoft.netcore.app.host.osx-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
